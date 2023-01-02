@@ -15,7 +15,10 @@
         <dependency>
             <artifactId>pet-clinic-data</artifactId>
             <groupId>com.example</groupId>
+
             <version>0.0.1-SNAPSHOT</version>
+
+            <type>jar</type>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
