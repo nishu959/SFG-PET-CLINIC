@@ -3,12 +3,12 @@
     <parent>
         <artifactId>SFG-PET-CLINIC</artifactId>
         <groupId>com.example</groupId>
-        <version>y</version>
+        <version>1.1-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>pet-clinic-data</artifactId>
-  <version>yes</version>
+  <version>1.1-SNAPSHOT</version>
 
     <dependencies>
 <!--        <dependency>-->
